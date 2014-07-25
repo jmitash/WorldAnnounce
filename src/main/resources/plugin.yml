@@ -1,0 +1,9 @@
+name: WorldAnnounce
+main: com.knoxcorner.worldannounce.WorldAnnounce
+version: 1.0
+description: Per world announcement system
+commands:
+    wa:
+        description: WorldAnnounce administrative commands
+        usage: /wa <he #>
+        permission: worldannounce.wa

@@ -1,0 +1,12 @@
+#Enter the world name, a space, and then the interval in seconds between messages
+#
+#To set which messages to display, enter the "Worlds" folder
+#And create a file with the respective name of the world
+#i.e. world.txt, world_nether.txt, world_the_end.txt 
+#Type each message to broadcast on a separate line
+#Use & to indicate colors
+
+worlds:
+  - world_example 120
+  - world_example_nether 300
+  
